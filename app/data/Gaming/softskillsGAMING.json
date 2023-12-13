@@ -1,0 +1,47 @@
+[
+    {
+        "Skill Block": "Communication",
+        "Relevant Experience": "Quest for Communication",
+        "Soft Skills": [
+            "Verbal Communication",
+            "Listening",
+            "Non-Verbal Communication"
+        ]
+    },
+    {
+        "Skill Block": "Empathy",
+        "Relevant Experience": "Empathy Odyssey",
+        "Soft Skills": [
+            "Understanding Others",
+            "Emotional Intelligence",
+            "Compassion"
+        ]
+    },
+    {
+        "Skill Block": "Teamwork",
+        "Relevant Experience": "Teamwork Trials",
+        "Soft Skills": [
+            "Collaboration",
+            "Conflict Resolution",
+            "Adaptability"
+        ]
+    },
+    {
+        "Skill Block": "Leadership",
+        "Relevant Experience": "Leadership Labyrinth",
+        "Soft Skills": [
+            "Influence",
+            "Decision Making",
+            "Delegation"
+        ]
+    },
+    {
+        "Skill Block": "Problem-Solving",
+        "Relevant Experience": "Problem-Solving Puzzle",
+        "Soft Skills": [
+            "Critical Thinking",
+            "Analytical Skills",
+            "Creativity"
+        ]
+    }
+]

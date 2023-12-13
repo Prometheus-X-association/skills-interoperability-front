@@ -1,0 +1,212 @@
+[
+  {
+    "@id": "SoftSkill_1",
+    "@type": "Concept",
+    "prefLabel": "Verbal Communication",
+    "broader": {
+      "@id": "SkillBlock_1"
+    }
+  },
+  {
+    "@id": "SoftSkill_2",
+    "@type": "Concept",
+    "prefLabel": "Listening",
+    "broader": {
+      "@id": "SkillBlock_1"
+    }
+  },
+  {
+    "@id": "SoftSkill_3",
+    "@type": "Concept",
+    "prefLabel": "Non-Verbal Communication",
+    "broader": {
+      "@id": "SkillBlock_1"
+    }
+  },
+  {
+    "@id": "SkillBlock_1",
+    "@context": "http://www.w3.org/2004/02/skos/core#",
+    "@type": "Concept",
+    "prefLabel": "Communication",
+    "RelevantExperience": "Quest for Communication",
+    "narrower": [
+      {
+        "@id": "SoftSkill_1"
+      },
+      {
+        "@id": "SoftSkill_2"
+      },
+      {
+        "@id": "SoftSkill_3"
+      }
+    ]
+  },
+  {
+    "@id": "SoftSkill_4",
+    "@type": "Concept",
+    "prefLabel": "Understanding Others",
+    "broader": {
+      "@id": "SkillBlock_2"
+    }
+  },
+  {
+    "@id": "SoftSkill_5",
+    "@type": "Concept",
+    "prefLabel": "Emotional Intelligence",
+    "broader": {
+      "@id": "SkillBlock_2"
+    }
+  },
+  {
+    "@id": "SoftSkill_6",
+    "@type": "Concept",
+    "prefLabel": "Compassion",
+    "broader": {
+      "@id": "SkillBlock_2"
+    }
+  },
+  {
+    "@id": "SkillBlock_2",
+    "@context": "http://www.w3.org/2004/02/skos/core#",
+    "@type": "Concept",
+    "prefLabel": "Empathy",
+    "RelevantExperience": "Empathy Odyssey",
+    "narrower": [
+      {
+        "@id": "SoftSkill_4"
+      },
+      {
+        "@id": "SoftSkill_5"
+      },
+      {
+        "@id": "SoftSkill_6"
+      }
+    ]
+  },
+  {
+    "@id": "SoftSkill_7",
+    "@type": "Concept",
+    "prefLabel": "Collaboration",
+    "broader": {
+      "@id": "SkillBlock_3"
+    }
+  },
+  {
+    "@id": "SoftSkill_8",
+    "@type": "Concept",
+    "prefLabel": "Conflict Resolution",
+    "broader": {
+      "@id": "SkillBlock_3"
+    }
+  },
+  {
+    "@id": "SoftSkill_9",
+    "@type": "Concept",
+    "prefLabel": "Adaptability",
+    "broader": {
+      "@id": "SkillBlock_3"
+    }
+  },
+  {
+    "@id": "SkillBlock_3",
+    "@context": "http://www.w3.org/2004/02/skos/core#",
+    "@type": "Concept",
+    "prefLabel": "Teamwork",
+    "RelevantExperience": "Teamwork Trials",
+    "narrower": [
+      {
+        "@id": "SoftSkill_7"
+      },
+      {
+        "@id": "SoftSkill_8"
+      },
+      {
+        "@id": "SoftSkill_9"
+      }
+    ]
+  },
+  {
+    "@id": "SoftSkill_10",
+    "@type": "Concept",
+    "prefLabel": "Influence",
+    "broader": {
+      "@id": "SkillBlock_4"
+    }
+  },
+  {
+    "@id": "SoftSkill_11",
+    "@type": "Concept",
+    "prefLabel": "Decision Making",
+    "broader": {
+      "@id": "SkillBlock_4"
+    }
+  },
+  {
+    "@id": "SoftSkill_12",
+    "@type": "Concept",
+    "prefLabel": "Delegation",
+    "broader": {
+      "@id": "SkillBlock_4"
+    }
+  },
+  {
+    "@id": "SkillBlock_4",
+    "@context": "http://www.w3.org/2004/02/skos/core#",
+    "@type": "Concept",
+    "prefLabel": "Leadership",
+    "RelevantExperience": "Leadership Labyrinth",
+    "narrower": [
+      {
+        "@id": "SoftSkill_10"
+      },
+      {
+        "@id": "SoftSkill_11"
+      },
+      {
+        "@id": "SoftSkill_12"
+      }
+    ]
+  },
+  {
+    "@id": "SoftSkill_13",
+    "@type": "Concept",
+    "prefLabel": "Critical Thinking",
+    "broader": {
+      "@id": "SkillBlock_5"
+    }
+  },
+  {
+    "@id": "SoftSkill_14",
+    "@type": "Concept",
+    "prefLabel": "Analytical Skills",
+    "broader": {
+      "@id": "SkillBlock_5"
+    }
+  },
+  {
+    "@id": "SoftSkill_15",
+    "@type": "Concept",
+    "prefLabel": "Creativity",
+    "broader": {
+      "@id": "SkillBlock_5"
+    }
+  },
+  {
+    "@id": "SkillBlock_5",
+    "@context": "http://www.w3.org/2004/02/skos/core#",
+    "@type": "Concept",
+    "prefLabel": "Problem-Solving",
+    "RelevantExperience": "Problem-Solving Puzzle",
+    "narrower": [
+      {
+        "@id": "SoftSkill_13"
+      },
+      {
+        "@id": "SoftSkill_14"
+      },
+      {
+        "@id": "SoftSkill_15"
+      }
+    ]
+  }
+]
