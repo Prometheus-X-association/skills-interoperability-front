@@ -1,0 +1,19 @@
+{
+    "Competency": "A classification or delineation of an individual's abilities or proficiencies. It characterizes a person's capability in a specific domain.",
+    "id": "A unique identifier for the item in context.",
+    "label": "A textual label or name representing the item in context.",
+    "Description": "A textual explanation or summary detailing the nature of the item in context.",
+    "compType": "The category of competency, determining whether it's a tangible skill, a personal attribute, a piece of information, or a combination of skills.",
+    "skillLevel": "A numeric value indicating the proficiency level of the competency, with 1 being beginner and 5 being expert.",
+    "Profile": "A comprehensive representation of an individual, detailing personal information and associated experiences.",
+    "name": "The full name of the individual.",
+    "email": "The email address associated with the individual.",
+    "adress": "The physical address or location of the individual.",
+    "Experience": "Details and records of an individual's past endeavors, including professional work, educational pursuits, and other significant activities.",
+    "expType": "The nature of the experience, whether it's professional, educational, vocational, a test, or custom defined.",
+    "dateFrom": "The starting date of the experience.",
+    "dateTo": "The ending date of the experience.",
+    "validatedBy": "The entity or individual who has validated or verified the experience.",
+    "Individual Choice": "A decision or preference made by an individual in a specific context.",
+    "polarity": "The nature of the individual's choice, whether it's negative, neutral, or positive."
+}

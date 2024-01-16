@@ -1,0 +1,1370 @@
+[
+    {
+        "Experience Ids": [
+            1,
+            2
+        ],
+        "Experience Labels": [
+            "Data Analysis Internship",
+            "Junior Data Scientist"
+        ],
+        "Associated Hard Skills": [
+            "Python",
+            "SQL",
+            "Machine Learning"
+        ],
+        "Associated Soft Skills": [
+            "Analytical Thinking",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "Suggested Experiences": [
+            "Senior Data Analyst",
+            "Data Science Consultant"
+        ],
+        "Liked Experiences": [
+            "Business Intelligence Analyst",
+            "Research Scientist"
+        ]
+    },
+    {
+        "Experience Ids": [
+            3
+        ],
+        "Experience Labels": [
+            "Project Management Role"
+        ],
+        "Associated Hard Skills": [
+            "Agile Methodologies",
+            "Budget Management",
+            "Risk Assessment"
+        ],
+        "Associated Soft Skills": [
+            "Leadership",
+            "Decision Making",
+            "Time Management"
+        ],
+        "Suggested Experiences": [
+            "Senior Project Manager",
+            "Program Director"
+        ],
+        "Liked Experiences": [
+            "Operations Manager",
+            "Product Manager"
+        ]
+    },
+    {
+        "Experience Ids": [
+            4,
+            5
+        ],
+        "Experience Labels": [
+            "Software Engineering Internship",
+            "Full Stack Developer"
+        ],
+        "Associated Hard Skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "Associated Soft Skills": [
+            "Creativity",
+            "Team Collaboration",
+            "Attention to Detail"
+        ],
+        "Suggested Experiences": [
+            "Lead Software Engineer",
+            "Technical Architect"
+        ],
+        "Liked Experiences": [
+            "UI/UX Designer",
+            "DevOps Engineer"
+        ]
+    },
+    {
+        "Experience Ids": [
+            4,
+            5
+        ],
+        "Experience Labels": [
+            "Experience Label 4",
+            "Experience Label 5"
+        ],
+        "Associated Hard Skills": [
+            "Skill 4",
+            "Skill 5",
+            "Skill 6"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 4",
+            "Soft Skill 5",
+            "Soft Skill 6"
+        ],
+        "Suggested Experiences": [
+            "Job Title 7",
+            "Job Title 8"
+        ],
+        "Liked Experiences": [
+            "Job Title 9",
+            "Job Title 10"
+        ]
+    },
+    {
+        "Experience Ids": [
+            5,
+            6
+        ],
+        "Experience Labels": [
+            "Experience Label 5",
+            "Experience Label 6"
+        ],
+        "Associated Hard Skills": [
+            "Skill 5",
+            "Skill 6",
+            "Skill 7"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 5",
+            "Soft Skill 6",
+            "Soft Skill 7"
+        ],
+        "Suggested Experiences": [
+            "Job Title 8",
+            "Job Title 9"
+        ],
+        "Liked Experiences": [
+            "Job Title 10",
+            "Job Title 11"
+        ]
+    },
+    {
+        "Experience Ids": [
+            6
+        ],
+        "Experience Labels": [
+            "Experience Label 6"
+        ],
+        "Associated Hard Skills": [
+            "Skill 6",
+            "Skill 7",
+            "Skill 8"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 6",
+            "Soft Skill 7",
+            "Soft Skill 8"
+        ],
+        "Suggested Experiences": [
+            "Job Title 9",
+            "Job Title 10"
+        ],
+        "Liked Experiences": [
+            "Job Title 11",
+            "Job Title 12"
+        ]
+    },
+    {
+        "Experience Ids": [
+            7,
+            8
+        ],
+        "Experience Labels": [
+            "Experience Label 7",
+            "Experience Label 8"
+        ],
+        "Associated Hard Skills": [
+            "Skill 7",
+            "Skill 8",
+            "Skill 9"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 7",
+            "Soft Skill 8",
+            "Soft Skill 9"
+        ],
+        "Suggested Experiences": [
+            "Job Title 10",
+            "Job Title 11"
+        ],
+        "Liked Experiences": [
+            "Job Title 12",
+            "Job Title 13"
+        ]
+    },
+    {
+        "Experience Ids": [
+            8,
+            9
+        ],
+        "Experience Labels": [
+            "Experience Label 8",
+            "Experience Label 9"
+        ],
+        "Associated Hard Skills": [
+            "Skill 8",
+            "Skill 9",
+            "Skill 10"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 8",
+            "Soft Skill 9",
+            "Soft Skill 10"
+        ],
+        "Suggested Experiences": [
+            "Job Title 11",
+            "Job Title 12"
+        ],
+        "Liked Experiences": [
+            "Job Title 13",
+            "Job Title 14"
+        ]
+    },
+    {
+        "Experience Ids": [
+            9
+        ],
+        "Experience Labels": [
+            "Experience Label 9"
+        ],
+        "Associated Hard Skills": [
+            "Skill 9",
+            "Skill 10",
+            "Skill 11"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 9",
+            "Soft Skill 10",
+            "Soft Skill 11"
+        ],
+        "Suggested Experiences": [
+            "Job Title 12",
+            "Job Title 13"
+        ],
+        "Liked Experiences": [
+            "Job Title 14",
+            "Job Title 15"
+        ]
+    },
+    {
+        "Experience Ids": [
+            10,
+            11
+        ],
+        "Experience Labels": [
+            "Experience Label 10",
+            "Experience Label 11"
+        ],
+        "Associated Hard Skills": [
+            "Skill 10",
+            "Skill 11",
+            "Skill 12"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 10",
+            "Soft Skill 11",
+            "Soft Skill 12"
+        ],
+        "Suggested Experiences": [
+            "Job Title 13",
+            "Job Title 14"
+        ],
+        "Liked Experiences": [
+            "Job Title 15",
+            "Job Title 16"
+        ]
+    },
+    {
+        "Experience Ids": [
+            11,
+            12
+        ],
+        "Experience Labels": [
+            "Experience Label 11",
+            "Experience Label 12"
+        ],
+        "Associated Hard Skills": [
+            "Skill 11",
+            "Skill 12",
+            "Skill 13"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 11",
+            "Soft Skill 12",
+            "Soft Skill 13"
+        ],
+        "Suggested Experiences": [
+            "Job Title 14",
+            "Job Title 15"
+        ],
+        "Liked Experiences": [
+            "Job Title 16",
+            "Job Title 17"
+        ]
+    },
+    {
+        "Experience Ids": [
+            12
+        ],
+        "Experience Labels": [
+            "Experience Label 12"
+        ],
+        "Associated Hard Skills": [
+            "Skill 12",
+            "Skill 13",
+            "Skill 14"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 12",
+            "Soft Skill 13",
+            "Soft Skill 14"
+        ],
+        "Suggested Experiences": [
+            "Job Title 15",
+            "Job Title 16"
+        ],
+        "Liked Experiences": [
+            "Job Title 17",
+            "Job Title 18"
+        ]
+    },
+    {
+        "Experience Ids": [
+            13,
+            14
+        ],
+        "Experience Labels": [
+            "Experience Label 13",
+            "Experience Label 14"
+        ],
+        "Associated Hard Skills": [
+            "Skill 13",
+            "Skill 14",
+            "Skill 15"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 13",
+            "Soft Skill 14",
+            "Soft Skill 15"
+        ],
+        "Suggested Experiences": [
+            "Job Title 16",
+            "Job Title 17"
+        ],
+        "Liked Experiences": [
+            "Job Title 18",
+            "Job Title 19"
+        ]
+    },
+    {
+        "Experience Ids": [
+            14,
+            15
+        ],
+        "Experience Labels": [
+            "Experience Label 14",
+            "Experience Label 15"
+        ],
+        "Associated Hard Skills": [
+            "Skill 14",
+            "Skill 15",
+            "Skill 16"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 14",
+            "Soft Skill 15",
+            "Soft Skill 16"
+        ],
+        "Suggested Experiences": [
+            "Job Title 17",
+            "Job Title 18"
+        ],
+        "Liked Experiences": [
+            "Job Title 19",
+            "Job Title 20"
+        ]
+    },
+    {
+        "Experience Ids": [
+            15
+        ],
+        "Experience Labels": [
+            "Experience Label 15"
+        ],
+        "Associated Hard Skills": [
+            "Skill 15",
+            "Skill 16",
+            "Skill 17"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 15",
+            "Soft Skill 16",
+            "Soft Skill 17"
+        ],
+        "Suggested Experiences": [
+            "Job Title 18",
+            "Job Title 19"
+        ],
+        "Liked Experiences": [
+            "Job Title 20",
+            "Job Title 21"
+        ]
+    },
+    {
+        "Experience Ids": [
+            16,
+            17
+        ],
+        "Experience Labels": [
+            "Experience Label 16",
+            "Experience Label 17"
+        ],
+        "Associated Hard Skills": [
+            "Skill 16",
+            "Skill 17",
+            "Skill 18"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 16",
+            "Soft Skill 17",
+            "Soft Skill 18"
+        ],
+        "Suggested Experiences": [
+            "Job Title 19",
+            "Job Title 20"
+        ],
+        "Liked Experiences": [
+            "Job Title 21",
+            "Job Title 22"
+        ]
+    },
+    {
+        "Experience Ids": [
+            17,
+            18
+        ],
+        "Experience Labels": [
+            "Experience Label 17",
+            "Experience Label 18"
+        ],
+        "Associated Hard Skills": [
+            "Skill 17",
+            "Skill 18",
+            "Skill 19"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 17",
+            "Soft Skill 18",
+            "Soft Skill 19"
+        ],
+        "Suggested Experiences": [
+            "Job Title 20",
+            "Job Title 21"
+        ],
+        "Liked Experiences": [
+            "Job Title 22",
+            "Job Title 23"
+        ]
+    },
+    {
+        "Experience Ids": [
+            18
+        ],
+        "Experience Labels": [
+            "Experience Label 18"
+        ],
+        "Associated Hard Skills": [
+            "Skill 18",
+            "Skill 19",
+            "Skill 20"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 18",
+            "Soft Skill 19",
+            "Soft Skill 20"
+        ],
+        "Suggested Experiences": [
+            "Job Title 21",
+            "Job Title 22"
+        ],
+        "Liked Experiences": [
+            "Job Title 23",
+            "Job Title 24"
+        ]
+    },
+    {
+        "Experience Ids": [
+            19,
+            20
+        ],
+        "Experience Labels": [
+            "Experience Label 19",
+            "Experience Label 20"
+        ],
+        "Associated Hard Skills": [
+            "Skill 19",
+            "Skill 20",
+            "Skill 21"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 19",
+            "Soft Skill 20",
+            "Soft Skill 21"
+        ],
+        "Suggested Experiences": [
+            "Job Title 22",
+            "Job Title 23"
+        ],
+        "Liked Experiences": [
+            "Job Title 24",
+            "Job Title 25"
+        ]
+    },
+    {
+        "Experience Ids": [
+            20,
+            21
+        ],
+        "Experience Labels": [
+            "Experience Label 20",
+            "Experience Label 21"
+        ],
+        "Associated Hard Skills": [
+            "Skill 20",
+            "Skill 21",
+            "Skill 22"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 20",
+            "Soft Skill 21",
+            "Soft Skill 22"
+        ],
+        "Suggested Experiences": [
+            "Job Title 23",
+            "Job Title 24"
+        ],
+        "Liked Experiences": [
+            "Job Title 25",
+            "Job Title 26"
+        ]
+    },
+    {
+        "Experience Ids": [
+            21
+        ],
+        "Experience Labels": [
+            "Experience Label 21"
+        ],
+        "Associated Hard Skills": [
+            "Skill 21",
+            "Skill 22",
+            "Skill 23"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 21",
+            "Soft Skill 22",
+            "Soft Skill 23"
+        ],
+        "Suggested Experiences": [
+            "Job Title 24",
+            "Job Title 25"
+        ],
+        "Liked Experiences": [
+            "Job Title 26",
+            "Job Title 27"
+        ]
+    },
+    {
+        "Experience Ids": [
+            22,
+            23
+        ],
+        "Experience Labels": [
+            "Experience Label 22",
+            "Experience Label 23"
+        ],
+        "Associated Hard Skills": [
+            "Skill 22",
+            "Skill 23",
+            "Skill 24"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 22",
+            "Soft Skill 23",
+            "Soft Skill 24"
+        ],
+        "Suggested Experiences": [
+            "Job Title 25",
+            "Job Title 26"
+        ],
+        "Liked Experiences": [
+            "Job Title 27",
+            "Job Title 28"
+        ]
+    },
+    {
+        "Experience Ids": [
+            23,
+            24
+        ],
+        "Experience Labels": [
+            "Experience Label 23",
+            "Experience Label 24"
+        ],
+        "Associated Hard Skills": [
+            "Skill 23",
+            "Skill 24",
+            "Skill 25"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 23",
+            "Soft Skill 24",
+            "Soft Skill 25"
+        ],
+        "Suggested Experiences": [
+            "Job Title 26",
+            "Job Title 27"
+        ],
+        "Liked Experiences": [
+            "Job Title 28",
+            "Job Title 29"
+        ]
+    },
+    {
+        "Experience Ids": [
+            24
+        ],
+        "Experience Labels": [
+            "Experience Label 24"
+        ],
+        "Associated Hard Skills": [
+            "Skill 24",
+            "Skill 25",
+            "Skill 26"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 24",
+            "Soft Skill 25",
+            "Soft Skill 26"
+        ],
+        "Suggested Experiences": [
+            "Job Title 27",
+            "Job Title 28"
+        ],
+        "Liked Experiences": [
+            "Job Title 29",
+            "Job Title 30"
+        ]
+    },
+    {
+        "Experience Ids": [
+            25,
+            26
+        ],
+        "Experience Labels": [
+            "Experience Label 25",
+            "Experience Label 26"
+        ],
+        "Associated Hard Skills": [
+            "Skill 25",
+            "Skill 26",
+            "Skill 27"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 25",
+            "Soft Skill 26",
+            "Soft Skill 27"
+        ],
+        "Suggested Experiences": [
+            "Job Title 28",
+            "Job Title 29"
+        ],
+        "Liked Experiences": [
+            "Job Title 30",
+            "Job Title 31"
+        ]
+    },
+    {
+        "Experience Ids": [
+            26,
+            27
+        ],
+        "Experience Labels": [
+            "Experience Label 26",
+            "Experience Label 27"
+        ],
+        "Associated Hard Skills": [
+            "Skill 26",
+            "Skill 27",
+            "Skill 28"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 26",
+            "Soft Skill 27",
+            "Soft Skill 28"
+        ],
+        "Suggested Experiences": [
+            "Job Title 29",
+            "Job Title 30"
+        ],
+        "Liked Experiences": [
+            "Job Title 31",
+            "Job Title 32"
+        ]
+    },
+    {
+        "Experience Ids": [
+            27
+        ],
+        "Experience Labels": [
+            "Experience Label 27"
+        ],
+        "Associated Hard Skills": [
+            "Skill 27",
+            "Skill 28",
+            "Skill 29"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 27",
+            "Soft Skill 28",
+            "Soft Skill 29"
+        ],
+        "Suggested Experiences": [
+            "Job Title 30",
+            "Job Title 31"
+        ],
+        "Liked Experiences": [
+            "Job Title 32",
+            "Job Title 33"
+        ]
+    },
+    {
+        "Experience Ids": [
+            28,
+            29
+        ],
+        "Experience Labels": [
+            "Experience Label 28",
+            "Experience Label 29"
+        ],
+        "Associated Hard Skills": [
+            "Skill 28",
+            "Skill 29",
+            "Skill 30"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 28",
+            "Soft Skill 29",
+            "Soft Skill 30"
+        ],
+        "Suggested Experiences": [
+            "Job Title 31",
+            "Job Title 32"
+        ],
+        "Liked Experiences": [
+            "Job Title 33",
+            "Job Title 34"
+        ]
+    },
+    {
+        "Experience Ids": [
+            29,
+            30
+        ],
+        "Experience Labels": [
+            "Experience Label 29",
+            "Experience Label 30"
+        ],
+        "Associated Hard Skills": [
+            "Skill 29",
+            "Skill 30",
+            "Skill 31"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 29",
+            "Soft Skill 30",
+            "Soft Skill 31"
+        ],
+        "Suggested Experiences": [
+            "Job Title 32",
+            "Job Title 33"
+        ],
+        "Liked Experiences": [
+            "Job Title 34",
+            "Job Title 35"
+        ]
+    },
+    {
+        "Experience Ids": [
+            30
+        ],
+        "Experience Labels": [
+            "Experience Label 30"
+        ],
+        "Associated Hard Skills": [
+            "Skill 30",
+            "Skill 31",
+            "Skill 32"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 30",
+            "Soft Skill 31",
+            "Soft Skill 32"
+        ],
+        "Suggested Experiences": [
+            "Job Title 33",
+            "Job Title 34"
+        ],
+        "Liked Experiences": [
+            "Job Title 35",
+            "Job Title 36"
+        ]
+    },
+    {
+        "Experience Ids": [
+            31,
+            32
+        ],
+        "Experience Labels": [
+            "Experience Label 31",
+            "Experience Label 32"
+        ],
+        "Associated Hard Skills": [
+            "Skill 31",
+            "Skill 32",
+            "Skill 33"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 31",
+            "Soft Skill 32",
+            "Soft Skill 33"
+        ],
+        "Suggested Experiences": [
+            "Job Title 34",
+            "Job Title 35"
+        ],
+        "Liked Experiences": [
+            "Job Title 36",
+            "Job Title 37"
+        ]
+    },
+    {
+        "Experience Ids": [
+            32,
+            33
+        ],
+        "Experience Labels": [
+            "Experience Label 32",
+            "Experience Label 33"
+        ],
+        "Associated Hard Skills": [
+            "Skill 32",
+            "Skill 33",
+            "Skill 34"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 32",
+            "Soft Skill 33",
+            "Soft Skill 34"
+        ],
+        "Suggested Experiences": [
+            "Job Title 35",
+            "Job Title 36"
+        ],
+        "Liked Experiences": [
+            "Job Title 37",
+            "Job Title 38"
+        ]
+    },
+    {
+        "Experience Ids": [
+            33
+        ],
+        "Experience Labels": [
+            "Experience Label 33"
+        ],
+        "Associated Hard Skills": [
+            "Skill 33",
+            "Skill 34",
+            "Skill 35"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 33",
+            "Soft Skill 34",
+            "Soft Skill 35"
+        ],
+        "Suggested Experiences": [
+            "Job Title 36",
+            "Job Title 37"
+        ],
+        "Liked Experiences": [
+            "Job Title 38",
+            "Job Title 39"
+        ]
+    },
+    {
+        "Experience Ids": [
+            34,
+            35
+        ],
+        "Experience Labels": [
+            "Experience Label 34",
+            "Experience Label 35"
+        ],
+        "Associated Hard Skills": [
+            "Skill 34",
+            "Skill 35",
+            "Skill 36"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 34",
+            "Soft Skill 35",
+            "Soft Skill 36"
+        ],
+        "Suggested Experiences": [
+            "Job Title 37",
+            "Job Title 38"
+        ],
+        "Liked Experiences": [
+            "Job Title 39",
+            "Job Title 40"
+        ]
+    },
+    {
+        "Experience Ids": [
+            35,
+            36
+        ],
+        "Experience Labels": [
+            "Experience Label 35",
+            "Experience Label 36"
+        ],
+        "Associated Hard Skills": [
+            "Skill 35",
+            "Skill 36",
+            "Skill 37"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 35",
+            "Soft Skill 36",
+            "Soft Skill 37"
+        ],
+        "Suggested Experiences": [
+            "Job Title 38",
+            "Job Title 39"
+        ],
+        "Liked Experiences": [
+            "Job Title 40",
+            "Job Title 41"
+        ]
+    },
+    {
+        "Experience Ids": [
+            36
+        ],
+        "Experience Labels": [
+            "Experience Label 36"
+        ],
+        "Associated Hard Skills": [
+            "Skill 36",
+            "Skill 37",
+            "Skill 38"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 36",
+            "Soft Skill 37",
+            "Soft Skill 38"
+        ],
+        "Suggested Experiences": [
+            "Job Title 39",
+            "Job Title 40"
+        ],
+        "Liked Experiences": [
+            "Job Title 41",
+            "Job Title 42"
+        ]
+    },
+    {
+        "Experience Ids": [
+            37,
+            38
+        ],
+        "Experience Labels": [
+            "Experience Label 37",
+            "Experience Label 38"
+        ],
+        "Associated Hard Skills": [
+            "Skill 37",
+            "Skill 38",
+            "Skill 39"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 37",
+            "Soft Skill 38",
+            "Soft Skill 39"
+        ],
+        "Suggested Experiences": [
+            "Job Title 40",
+            "Job Title 41"
+        ],
+        "Liked Experiences": [
+            "Job Title 42",
+            "Job Title 43"
+        ]
+    },
+    {
+        "Experience Ids": [
+            38,
+            39
+        ],
+        "Experience Labels": [
+            "Experience Label 38",
+            "Experience Label 39"
+        ],
+        "Associated Hard Skills": [
+            "Skill 38",
+            "Skill 39",
+            "Skill 40"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 38",
+            "Soft Skill 39",
+            "Soft Skill 40"
+        ],
+        "Suggested Experiences": [
+            "Job Title 41",
+            "Job Title 42"
+        ],
+        "Liked Experiences": [
+            "Job Title 43",
+            "Job Title 44"
+        ]
+    },
+    {
+        "Experience Ids": [
+            39
+        ],
+        "Experience Labels": [
+            "Experience Label 39"
+        ],
+        "Associated Hard Skills": [
+            "Skill 39",
+            "Skill 40",
+            "Skill 41"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 39",
+            "Soft Skill 40",
+            "Soft Skill 41"
+        ],
+        "Suggested Experiences": [
+            "Job Title 42",
+            "Job Title 43"
+        ],
+        "Liked Experiences": [
+            "Job Title 44",
+            "Job Title 45"
+        ]
+    },
+    {
+        "Experience Ids": [
+            40,
+            41
+        ],
+        "Experience Labels": [
+            "Experience Label 40",
+            "Experience Label 41"
+        ],
+        "Associated Hard Skills": [
+            "Skill 40",
+            "Skill 41",
+            "Skill 42"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 40",
+            "Soft Skill 41",
+            "Soft Skill 42"
+        ],
+        "Suggested Experiences": [
+            "Job Title 43",
+            "Job Title 44"
+        ],
+        "Liked Experiences": [
+            "Job Title 45",
+            "Job Title 46"
+        ]
+    },
+    {
+        "Experience Ids": [
+            41,
+            42
+        ],
+        "Experience Labels": [
+            "Experience Label 41",
+            "Experience Label 42"
+        ],
+        "Associated Hard Skills": [
+            "Skill 41",
+            "Skill 42",
+            "Skill 43"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 41",
+            "Soft Skill 42",
+            "Soft Skill 43"
+        ],
+        "Suggested Experiences": [
+            "Job Title 44",
+            "Job Title 45"
+        ],
+        "Liked Experiences": [
+            "Job Title 46",
+            "Job Title 47"
+        ]
+    },
+    {
+        "Experience Ids": [
+            42
+        ],
+        "Experience Labels": [
+            "Experience Label 42"
+        ],
+        "Associated Hard Skills": [
+            "Skill 42",
+            "Skill 43",
+            "Skill 44"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 42",
+            "Soft Skill 43",
+            "Soft Skill 44"
+        ],
+        "Suggested Experiences": [
+            "Job Title 45",
+            "Job Title 46"
+        ],
+        "Liked Experiences": [
+            "Job Title 47",
+            "Job Title 48"
+        ]
+    },
+    {
+        "Experience Ids": [
+            43,
+            44
+        ],
+        "Experience Labels": [
+            "Experience Label 43",
+            "Experience Label 44"
+        ],
+        "Associated Hard Skills": [
+            "Skill 43",
+            "Skill 44",
+            "Skill 45"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 43",
+            "Soft Skill 44",
+            "Soft Skill 45"
+        ],
+        "Suggested Experiences": [
+            "Job Title 46",
+            "Job Title 47"
+        ],
+        "Liked Experiences": [
+            "Job Title 48",
+            "Job Title 49"
+        ]
+    },
+    {
+        "Experience Ids": [
+            44,
+            45
+        ],
+        "Experience Labels": [
+            "Experience Label 44",
+            "Experience Label 45"
+        ],
+        "Associated Hard Skills": [
+            "Skill 44",
+            "Skill 45",
+            "Skill 46"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 44",
+            "Soft Skill 45",
+            "Soft Skill 46"
+        ],
+        "Suggested Experiences": [
+            "Job Title 47",
+            "Job Title 48"
+        ],
+        "Liked Experiences": [
+            "Job Title 49",
+            "Job Title 50"
+        ]
+    },
+    {
+        "Experience Ids": [
+            45
+        ],
+        "Experience Labels": [
+            "Experience Label 45"
+        ],
+        "Associated Hard Skills": [
+            "Skill 45",
+            "Skill 46",
+            "Skill 47"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 45",
+            "Soft Skill 46",
+            "Soft Skill 47"
+        ],
+        "Suggested Experiences": [
+            "Job Title 48",
+            "Job Title 49"
+        ],
+        "Liked Experiences": [
+            "Job Title 50",
+            "Job Title 51"
+        ]
+    },
+    {
+        "Experience Ids": [
+            46,
+            47
+        ],
+        "Experience Labels": [
+            "Experience Label 46",
+            "Experience Label 47"
+        ],
+        "Associated Hard Skills": [
+            "Skill 46",
+            "Skill 47",
+            "Skill 48"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 46",
+            "Soft Skill 47",
+            "Soft Skill 48"
+        ],
+        "Suggested Experiences": [
+            "Job Title 49",
+            "Job Title 50"
+        ],
+        "Liked Experiences": [
+            "Job Title 51",
+            "Job Title 52"
+        ]
+    },
+    {
+        "Experience Ids": [
+            47,
+            48
+        ],
+        "Experience Labels": [
+            "Experience Label 47",
+            "Experience Label 48"
+        ],
+        "Associated Hard Skills": [
+            "Skill 47",
+            "Skill 48",
+            "Skill 49"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 47",
+            "Soft Skill 48",
+            "Soft Skill 49"
+        ],
+        "Suggested Experiences": [
+            "Job Title 50",
+            "Job Title 51"
+        ],
+        "Liked Experiences": [
+            "Job Title 52",
+            "Job Title 53"
+        ]
+    },
+    {
+        "Experience Ids": [
+            48
+        ],
+        "Experience Labels": [
+            "Experience Label 48"
+        ],
+        "Associated Hard Skills": [
+            "Skill 48",
+            "Skill 49",
+            "Skill 50"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 48",
+            "Soft Skill 49",
+            "Soft Skill 50"
+        ],
+        "Suggested Experiences": [
+            "Job Title 51",
+            "Job Title 52"
+        ],
+        "Liked Experiences": [
+            "Job Title 53",
+            "Job Title 54"
+        ]
+    },
+    {
+        "Experience Ids": [
+            49,
+            50
+        ],
+        "Experience Labels": [
+            "Experience Label 49",
+            "Experience Label 50"
+        ],
+        "Associated Hard Skills": [
+            "Skill 49",
+            "Skill 50",
+            "Skill 51"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 49",
+            "Soft Skill 50",
+            "Soft Skill 51"
+        ],
+        "Suggested Experiences": [
+            "Job Title 52",
+            "Job Title 53"
+        ],
+        "Liked Experiences": [
+            "Job Title 54",
+            "Job Title 55"
+        ]
+    },
+    {
+        "Experience Ids": [
+            50,
+            51
+        ],
+        "Experience Labels": [
+            "Experience Label 50",
+            "Experience Label 51"
+        ],
+        "Associated Hard Skills": [
+            "Skill 50",
+            "Skill 51",
+            "Skill 52"
+        ],
+        "Associated Soft Skills": [
+            "Soft Skill 50",
+            "Soft Skill 51",
+            "Soft Skill 52"
+        ],
+        "Suggested Experiences": [
+            "Job Title 53",
+            "Job Title 54"
+        ],
+        "Liked Experiences": [
+            "Job Title 55",
+            "Job Title 56"
+        ]
+    }
+]

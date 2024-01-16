@@ -1,0 +1,132 @@
+[
+    {
+        "title": "Consultant SEO",
+        "description": "Les apprenants commencent leur formation par une semaine de Fast Track. Il s’agit ici d’une montée en compétence intensive sur l'ensemble des piliers du métier de Consultant SEO. L’objectif : une prise en main des projets d’entreprises, plus aisée, les semaines suivantes... Après cela, les apprenants assistent aux Ateliers du Soir : “Ateliers projet global”. Le Directeur de Programme délivre alors le programme de la formation en fil rouge. En journée, les apprenants travaillent sur des projets réels confiés par des entreprises partenaires. Ils sont encadrés par des coaches qui les orientent dans le déroulement des projets. A cela s'ajoutent des ateliers 'projet d'expertise' permettant de développer des spécialités du SEO (Rédaction Web, SEO local ou Google Analytics), mais aussi des soft skills (Prise de Parole en Public et Langage Corporel). A partir du premier mois de formation, l’école organise des séances de Use Case Time, de manière hebdomadaire. Lors de ces interventions, un professionnel du digital extérieur à l’école présente un cas concret, une évolution ou une méthodologie. Passées les 14 premières semaines de formation, les étudiants partent ensuite en alternance en entreprise sur un rythme de 4 jours en entreprise et 1 jour en formation. Pendant cette journée, ils travaillent sous un format de coaching en groupe et individuel sur des cas concrets. L’objectif de ces séances est d’approfondir les notions abordées durant la première phase de formation, mais aussi de proposer des réponses aux problématiques rencontrées lors des projets en entreprise.",
+        "job_trained_for": "SEA/SEO/SEM",
+        "education_level_targeted": "Bac+3",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "THE BRIDGE ECOLE-ENTREPRISES",
+        "duration": "15 mois",
+        "training_modality": "formation mixte",
+        "next_sessions": [
+            "27/09/2023 - 29/12/2023",
+            "02/10/2023 - 04/10/2024"
+        ],
+        "location": "41 rue Clément Bayard 92300 LEVALLOIS-PERRET"
+    },
+    {
+        "title": "Concepteur designer UI",
+        "description":"Formez-vous au métier d'UI Designer en 8 mois grâce à la formation labellisée Grande Ecole du Numérique ‟Concepteur designer UI” de I D FORMATION (INNOVATION DÉVELOPPEMENT FORMATION) à BETHUNE ! Cette formation est accessible à tous sans prérequis académiques. Elle vous permettra de bénéficier des avantages réservés aux apprenants et apprenantes des formations labellisées GEN (invitation à des événements, job datings, certifications gratuites ou à prix réduits) et de demander une bourse du CROUS sous conditions de ressources. Le designer interactif ou UX designer optimise l'expérience utilisateur sur un site ou une application en rendant son interface lisible, intuitive et ergonomique. Il conçoit l'interface et l'ergonomie du site web, de l'application ou du logiciel sous forme de croquis et réalise les maquettes de l'interface (wireframes) grâce à sa maitrise des logiciels de maquettage et des logiciels de création pour les transmettre au développeur. Ce sont des postes qui demandent de la créativité, de la flexibilité, un sens de l’écoute et de la curiosité.",
+        "job_trained_for": "Graphisme / Design",
+        "education_level_targeted": "Bac+3",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "I D FORMATION (INNOVATION DÉVELOPPEMENT FORMATION)",
+        "duration": "8 mois",
+        "training_modality": "formation mixte",
+        "location": "558 Rue de Lille 62400 BETHUNE"
+    },
+    {
+        "title": "Technicien d’assistance en informatique",
+        "description": "Formez-vous au métier de Technicien helpdesk en 7 mois grâce à la formation labellisée Grande Ecole du Numérique ‟Technicien d’assistance en informatique” de I D FORMATION (INNOVATION DÉVELOPPEMENT FORMATION) à Calais ! Cette formation est accessible à tous sans prérequis académiques. Elle vous permettra de bénéficier des avantages réservés aux apprenants et apprenantes des formations labellisées GEN (invitation à des événements, job datings, certifications gratuites ou à prix réduits). Les professionnels du support technique installent et assurent la maintenance du matériel fourni aux employés d'une entreprise. Pour exercer dans les métiers du support technique, il est indispensable de maîtriser l'environnement informatique (ordinateurs, logiciels, etc.) et de pouvoir faire preuve de pédagogie pour venir en aide aux collaborateurs de l'entreprise. Ce sont des postes qui demandent de la patience, de la pédagogie, un sens de la communication et une capacité d’analyse.",
+        "job_trained_for": "Support technique",
+        "education_level_targeted": "Bac",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "I D FORMATION (INNOVATION DÉVELOPPEMENT FORMATION)",
+        "duration": "7 mois",
+        "training_modality": "formation mixte",
+        "location": "19, Rue Edgard Quinet 62100 Calais"
+    },
+    {
+        "title": "Concepteur développeur d'application",
+        "description": "La formation 'Concepteur développeur d'application' est un parcours de 11 mois proposé par DIGIFAB à Annemasse. Elle couvre divers aspects du développement FullStack, y compris le développement web, la manipulation des bases de données SQL, l'utilisation de frameworks modernes comme Angular, et la conteneurisation avec Docker.",
+        "job_trained_for": "Développement",
+        "education_level_targeted": "Bac+3",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "DIGIFAB",
+        "duration": "11 mois",
+        "training_modality": "formation mixte",
+        "location": "11 RUE PAUL BERT 74100 ANNEMASSE"
+    },
+    {
+        "title": "Développeur Web Full Stack",
+        "description": "Formez-vous au métier de Développeur Full Stack en 8 mois grâce à la formation labellisée Grande Ecole du Numérique 'Développeur Web Full Stack' de ONLINEFORMAPRO à NEVERS ! Cette formation est accessible à tous sans prérequis académiques. Elle permet de bénéficier des avantages des formations labellisées GEN, et couvre la conception des fondations et de l’interface de sites ou d’applications, maîtrisant à la fois le back-end et le front-end.",
+        "job_trained_for": "Développement",
+        "education_level_targeted": "Bac+2",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "ONLINEFORMAPRO",
+        "duration": "8 mois",
+        "training_modality": "formation entièrement présentielle",
+        "location": "1 Boulevard de la République 58000 NEVERS"
+    },
+    {
+        "title": "Responsable d'espace de médiation numérique",
+        "description": "Formez-vous au métier de Médiateur numérique en 10 mois grâce à la formation labellisée Grande Ecole du Numérique ‟Responsable d'Espace de Médiation Numérique” de M.O.D.E (MÉDITERRANÉE ORDINATEURS DÉVELOPPEMENT ET EMPLOI) à FREJUS ! Cette formation est accessible à tous sans prérequis académiques. Elle vous permettra de bénéficier des avantages réservés aux apprenants et apprenantes des formations labellisées GEN (invitation à des événements, job datings, certifications gratuites ou à prix-réduits) et de demander une bourse du CROUS sous conditions de ressources. Les métiers de l'accompagnement au numérique visent à développer les usages des outils numériques au sein d'une entreprise. Le médiateur numérique aide les individus à maîtriser les différents outils numériques et cherche à en développer l'utilisation. Le métier de médiateur / conseiller numérique s'exerce généralement dans une structure publique ou association qui accueille des publics éloignés du numérique, dans des tiers lieux ou dans les structures France Services. C’est un poste qui demande de la pédagogie, une aisance relationnelle, du leadership et de la curiosité.",        "job_trained_for": "Médiation numérique",
+        "education_level_targeted": "Bac+2",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "GUADELOUPE FORMATION",
+        "duration": "11 mois",
+        "training_modality": "formation mixte",
+        "location": "Chemin Marcel Roujol Bâtiment C Rez de Chaussée salle de cours N°1 97170 PETIT-BOURG"
+    },
+    {
+        "title": "Commercial expert en numérique - SDR",
+        "description": "La formation 'Commercial expert en numérique - SDR' est un parcours de 15 mois proposé par ROCKET SCHOOL LYON à Villeurbanne. Elle comprend 400 heures de formation initiale suivies de 472 heures de cours en alternance. Le programme offre un tronc commun aux trois métiers sur lesquels la formation se concentre, avec un complément spécifique pour chaque spécialité.",
+        "job_trained_for": "Digital Business Development",
+        "education_level_targeted": "Bac+3",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "ROCKET SCHOOL LYON",
+        "duration": "15 mois",
+        "training_modality": "formation entièrement présentielle",
+        "location": "44 AV PAUL KRUGER 69100 VILLEURBANNE"
+    },
+    {
+        "title": "Développeur intelligence artificielle",
+        "description": "Vous souhaitez lancer votre carrière data ou monter en compétence? Notre formation de 10 semaines au format hybride vous permet d'acquérir des compétences de pointe : - Le langage SQL pour manipuler efficacement les données - Le langage Python pour automatiser les flux de données - L'utilisation d'outils tels que PowerBI ou Tableau pour visualiser la data - La maîtrise du Machine Learning Et bien plus encore avec tous les derniers outils en vogue. Vos formateurs sont des experts data d'Artefact, leader mondial du conseil en data. Ils relèvent chaque jour les défis des plus grandes entreprises mondiales. Notre programme unique basé sur 90% de pratique de cas clients réels, est conçu pour que vous deveniez un expert data employable en seulement 2 mois et demi !",
+        "job_trained_for": "IA / Machine Learning",
+        "education_level_targeted": "Bac+3",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "IQ FACTORY",
+        "duration": "5 mois",
+        "training_modality": "formation mixte",
+        "location": "19 rue Richer 75009 PARIS",
+        "next_sessions": ["28/08/2023 - 03/11/2023", "25/09/2023 - 01/12/2023", "30/10/2023 - 09/01/2024"]
+    },
+    {
+        "title": "Titre Professionnel Administrateur d'Infrastructures Sécurisées",
+        "description": "Le Titre Professionnel AIS (Administrateur d'Infrastructures Sécurisées) répond aux besoins repérés sur le marché de l'emploi, dans le domaine des infrastructures informatiques. Il correspond aux exigences de qualification qui accompagnent les évolutions des infrastructures (complexité accrue, hybridation, sécurisation, recherche d'automatisation).",
+        "job_trained_for": "Cybersécurité",
+        "education_level_targeted": "Bac+3",
+        "funding": "Formation labellisée Grande Ecole du Numérique",
+        "type_of_professional_immersion": "Tout type de contrat d'alternance",
+        "training_organization": "CONCEPT X FORMATION",
+        "duration": "10 mois",
+        "training_modality": "formation entièrement présentielle",
+        "location": "12, rue Lethière 97100 BASSE TERRE",
+        "next_sessions": [
+            "11/09/2023 - 03/05/2024",
+            "10/06/2024 - 14/03/2025",
+            "23/06/2023 - 20/01/2024",
+            "11/03/2024 - 20/09/2024",
+            "09/12/2024 - 23/05/2025",
+            "16/06/2025 - 10/04/2026"
+        ]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]
