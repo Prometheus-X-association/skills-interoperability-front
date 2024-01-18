@@ -13,11 +13,11 @@ git checkout main
 
 # First time set-up :
 
-* on github, rename the default upstream branch to upmain 
+* on github, create a test file on the main branch, rename the default upstream branch to upmain 
 
 * add the prometheus-x as `upstream` remote
 ```
-git remote add upstream git@github.com:Prometheus-X-association/smart-orientation-ontology.git
+git remote add upstream git@github.com:Prometheus-X-association/skills-interoperability-front.git
 ```
 
 * on local : 
